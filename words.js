@@ -1,7 +1,18 @@
 var words = [];
 
 // Adjectives (most of the time).
-words['adjectives'] = ['Young', "Lil'", 'Big', 'YBN', 'Sick', 'Ill', 'Wavy'];
+words['adjectives'] = [
+  'Young',
+  'Yung',
+  "Lil'",
+  'Big',
+  'YBN',
+  'Sick',
+  'Ill',
+  'Wavy',
+  'DJ',
+  'D'
+];
 
 // Nouns (most of the time).
 words['nouns'] = [
@@ -23,7 +34,27 @@ words['nouns'] = [
   'Xan',
   'Emo',
   'Dookey',
-  'God'
+  'God',
+  'Ram',
+  'Chapo',
+  'Bando',
+  'Jugg',
+  'Boii',
+  'Perc',
+  'Flossy',
+  'Dead',
+  'Door',
+  'Zilla',
+  'Lost',
+  'Savage',
+  'Coffin',
+  'Neck',
+  'Throat',
+  'Cautious',
+  'Beans',
+  'Rackz',
+  '$hawty',
+  'Ku$h'
 ];
 
 module.exports = words;
