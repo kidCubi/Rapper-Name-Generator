@@ -33,8 +33,4 @@ function generateName() {
   return name;
 }
 
-for (var i = 0; i < 10; i++) {
-  console.log(generateName());
-}
-
 module.exports = generateName;
