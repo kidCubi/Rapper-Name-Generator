@@ -22,7 +22,7 @@ words['nouns'] = [
   'Shooter',
   'Xan',
   'Emo',
-  'dookey',
+  'Dookey',
   'God'
 ];
 
