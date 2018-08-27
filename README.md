@@ -1,7 +1,7 @@
 # Rapper-Name-Generator
 Generate map names in your app!
 
-[Try it Out!](https://github.com/npmgod/Rapper-Name-Generator)
+[Try it Out!](https://npmgod.github.io/Example-Website/#/rapper-name-generator)
 
 ## Install
 `npm install rapper-name-generator --save`
